@@ -14,7 +14,7 @@ editor:
 
 ## Abstract
 
-We measured the voltage at two points in a resistor network to validate the behavior of the circuit. We found the ratio of voltages was: $0.665\pm 0.001$ close to the expected value of $0.667$. We also measured the decay over time of the voltage on a capacitor. We used that to estimate the decay time constant and found that to be $\tau = 66.57 \pm 0.34\mathrm{~ms}$, very close to the expected value of $\tau =66.67\mathrm{~ms}$. (Please replace these numbers with numbers from  your actual experiment and analysis. Then delete this parenthetical comment.)
+We measured the voltage at two points in a resistor network to validate the behavior of the circuit. We found the ratio of voltages was: $0.6639\pm 0.0012$ close to the expected value of $0.667$. We also measured the decay over time of the voltage on a capacitor. We used that to estimate the decay time constant and found that to be $\tau = 66.58 \pm 0.0002\mathrm{~ms}$, very close to the expected value of $\tau =66.67\mathrm{~ms}$. (Please replace these numbers with numbers from  your actual experiment and analysis. Then delete this parenthetical comment.)
 
 ## Description
 
